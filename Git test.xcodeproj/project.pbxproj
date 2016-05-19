@@ -15,6 +15,7 @@
 		D67E8E0F1CEE626C00351F7A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D67E8E0D1CEE626C00351F7A /* LaunchScreen.storyboard */; };
 		D67E8E1A1CEE626D00351F7A /* Git_testTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D67E8E191CEE626D00351F7A /* Git_testTests.m */; };
 		D67E8E251CEE626D00351F7A /* Git_testUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D67E8E241CEE626D00351F7A /* Git_testUITests.m */; };
+		D67E8E341CEE685900351F7A /* test.m in Sources */ = {isa = PBXBuildFile; fileRef = D67E8E331CEE685900351F7A /* test.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		D67E8E201CEE626D00351F7A /* Git testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Git testUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D67E8E241CEE626D00351F7A /* Git_testUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Git_testUITests.m; sourceTree = "<group>"; };
 		D67E8E261CEE626D00351F7A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D67E8E321CEE685900351F7A /* test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
+		D67E8E331CEE685900351F7A /* test.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = test.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				D67E8E0D1CEE626C00351F7A /* LaunchScreen.storyboard */,
 				D67E8E101CEE626C00351F7A /* Info.plist */,
 				D67E8DFF1CEE626C00351F7A /* Supporting Files */,
+				D67E8E321CEE685900351F7A /* test.h */,
+				D67E8E331CEE685900351F7A /* test.m */,
 			);
 			path = "Git test";
 			sourceTree = "<group>";
@@ -271,6 +276,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D67E8E071CEE626C00351F7A /* ViewController.m in Sources */,
+				D67E8E341CEE685900351F7A /* test.m in Sources */,
 				D67E8E041CEE626C00351F7A /* AppDelegate.m in Sources */,
 				D67E8E011CEE626C00351F7A /* main.m in Sources */,
 			);
