@@ -108,13 +108,13 @@
 				D67E8E031CEE626C00351F7A /* AppDelegate.m */,
 				D67E8E051CEE626C00351F7A /* ViewController.h */,
 				D67E8E061CEE626C00351F7A /* ViewController.m */,
+				D67E8E321CEE685900351F7A /* test.h */,
+				D67E8E331CEE685900351F7A /* test.m */,
 				D67E8E081CEE626C00351F7A /* Main.storyboard */,
 				D67E8E0B1CEE626C00351F7A /* Assets.xcassets */,
 				D67E8E0D1CEE626C00351F7A /* LaunchScreen.storyboard */,
 				D67E8E101CEE626C00351F7A /* Info.plist */,
 				D67E8DFF1CEE626C00351F7A /* Supporting Files */,
-				D67E8E321CEE685900351F7A /* test.h */,
-				D67E8E331CEE685900351F7A /* test.m */,
 			);
 			path = "Git test";
 			sourceTree = "<group>";
